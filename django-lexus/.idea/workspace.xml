@@ -1,0 +1,561 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="db5ee9aa-0e12-4c97-9883-53811dbed939" name="Default Changelist" comment="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;LexusTaxi/pages/admin.html">
+      <change afterPath="$PROJECT_DIR$/lexussite/authorized/forms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lexussite/index/forms.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LexusTaxi/pages/Authorized.html" beforeDir="false" afterPath="$PROJECT_DIR$/../LexusTaxi/pages/Authorized.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LexusTaxi/pages/admin.html" beforeDir="false" afterPath="$PROJECT_DIR$/../LexusTaxi/pages/admin.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LexusTaxi/pages/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../LexusTaxi/pages/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LexusTaxi/script/SubMenuLogin.js" beforeDir="false" afterPath="$PROJECT_DIR$/../LexusTaxi/script/SubMenuLogin.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LexusTaxi/script/jquery.js" beforeDir="false" afterPath="$PROJECT_DIR$/../LexusTaxi/script/jquery.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LexusTaxi/script/jquery.maskedinput.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/../LexusTaxi/script/jquery.maskedinput.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LexusTaxi/style/Authorized.css" beforeDir="false" afterPath="$PROJECT_DIR$/../LexusTaxi/style/Authorized.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LexusTaxi/style/admin.css" beforeDir="false" afterPath="$PROJECT_DIR$/../LexusTaxi/style/admin.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LexusTaxi/style/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/../LexusTaxi/style/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LexusTaxi/style/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/../LexusTaxi/style/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lexussite/authorized/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/lexussite/authorized/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lexussite/authorized/templates/authorized/authorized.html" beforeDir="false" afterPath="$PROJECT_DIR$/lexussite/authorized/templates/authorized/authorized.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lexussite/authorized/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/lexussite/authorized/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lexussite/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/lexussite/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lexussite/index/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/lexussite/index/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lexussite/index/static/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/lexussite/index/static/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lexussite/index/static/index/style/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/lexussite/index/static/index/style/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lexussite/index/static/index/taxi/lanos.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lexussite/index/static/index/taxi/mees.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lexussite/index/static/index/taxi/niva.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lexussite/index/static/index/taxi/tesla.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lexussite/index/templates/index/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/lexussite/index/templates/index/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lexussite/index/templates/index/wrapper.html" beforeDir="false" afterPath="$PROJECT_DIR$/lexussite/index/templates/index/wrapper.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lexussite/index/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/lexussite/index/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lexussite/index/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/lexussite/index/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lexussite/manager/templates/manager/manager.html" beforeDir="false" afterPath="$PROJECT_DIR$/lexussite/manager/templates/manager/manager.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lexussite/manager/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/lexussite/manager/views.py" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="db" type="feb32156:DbDataSourceImpl" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Alex Shashko &lt;oleksii.shashko@nure.ua&gt;" />
+        <option value="DrK_Zi" />
+        <option value="master" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/lexussite/manager/includes/nav_authorized.html" />
+        <option value="$PROJECT_DIR$/lexussite/index/includes/nav_unauthor.html" />
+        <option value="$PROJECT_DIR$/lexussite/authorized/urls.py" />
+        <option value="$PROJECT_DIR$/lexussite/lexussite/urls.py" />
+        <option value="$PROJECT_DIR$/lexussite/index/validators.py" />
+        <option value="$PROJECT_DIR$/lexussite/authorized/admin.py" />
+        <option value="$PROJECT_DIR$/lexussite/index/admin.py" />
+        <option value="$PROJECT_DIR$/lexussite/index/templates/index/cars_template.html" />
+        <option value="$PROJECT_DIR$/lexussite/lexussite/settings.py" />
+        <option value="$PROJECT_DIR$/lexussite/index/urls.py" />
+        <option value="$PROJECT_DIR$/lexussite/authorized/models.py" />
+        <option value="$PROJECT_DIR$/lexussite/index/static/css/style.css" />
+        <option value="$PROJECT_DIR$/lexussite/manager/urls.py" />
+        <option value="$PROJECT_DIR$/lexussite/index/forms.py" />
+        <option value="$PROJECT_DIR$/lexussite/authorized/forms.py" />
+        <option value="$PROJECT_DIR$/lexussite/index/views.py" />
+        <option value="$PROJECT_DIR$/lexussite/manager/templates/manager/manager.html" />
+        <option value="$PROJECT_DIR$/lexussite/manager/views.py" />
+        <option value="$PROJECT_DIR$/lexussite/index/templates/index/index.html" />
+        <option value="$PROJECT_DIR$/lexussite/index/models.py" />
+        <option value="$PROJECT_DIR$/lexussite/authorized/views.py" />
+        <option value="$PROJECT_DIR$/lexussite/authorized/templates/authorized/authorized.html" />
+        <option value="$PROJECT_DIR$/lexussite/index/templates/index/wrapper.html" />
+        <option value="$PROJECT_DIR$/lexussite/authorized/static/authorized/style/authorized.css" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-29" />
+    <option name="y" value="-8" />
+    <option name="width" value="1261" />
+    <option name="height" value="688" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="django-lexus" type="b2602c69:ProjectViewProjectNode" />
+              <item name="django-lexus" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="manage" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="django-lexus" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lexussite" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lexussite/manage.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.manage" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="db5ee9aa-0e12-4c97-9883-53811dbed939" name="Default Changelist" comment="" />
+      <created>1555443285281</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1555443285281</updated>
+      <workItem from="1555443293987" duration="1730000" />
+      <workItem from="1555512960224" duration="5848000" />
+      <workItem from="1555595538214" duration="12762000" />
+      <workItem from="1555676536273" duration="3367000" />
+      <workItem from="1556047013654" duration="925000" />
+      <workItem from="1556727219681" duration="621000" />
+      <workItem from="1557331266069" duration="1243000" />
+      <workItem from="1557571858972" duration="7366000" />
+      <workItem from="1557584177421" duration="11008000" />
+      <workItem from="1557597205728" duration="376000" />
+      <workItem from="1558787794487" duration="6423000" />
+      <workItem from="1558857550920" duration="17769000" />
+      <workItem from="1558887509144" duration="4568000" />
+      <workItem from="1558971323189" duration="8335000" />
+      <workItem from="1559293136986" duration="256000" />
+      <workItem from="1559293519849" duration="7547000" />
+      <workItem from="1559335780341" duration="2997000" />
+      <workItem from="1559384475729" duration="14600000" />
+      <workItem from="1559459246590" duration="33074000" />
+    </task>
+    <task id="LOCAL-00001" summary="Models">
+      <created>1557597469209</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1557597469209</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="140815000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1376" height="744" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16793314" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3289689" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3289689" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.49924013" weight="0.3289689" />
+      <window_info anchor="bottom" id="Database Changes" order="9" sideWeight="0.49924013" weight="0.3289689" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50303954" side_tool="true" weight="0.28805238" />
+      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.4969605" visible="true" weight="0.28805238" />
+      <window_info anchor="bottom" id="Python Console" order="12" weight="0.3289689" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" weight="0.32978722" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16793314" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3289689" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3289689" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.49924013" weight="0.3289689" />
+      <window_info anchor="bottom" id="Database Changes" order="9" sideWeight="0.49924013" weight="0.3289689" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50227964" side_tool="true" weight="0.3289689" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="11" sideWeight="0.49772036" visible="true" weight="0.28805238" />
+      <window_info anchor="bottom" id="Python Console" order="12" weight="0.3289689" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" weight="0.32978722" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Models" />
+    <option name="LAST_COMMIT_MESSAGE" value="Models" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/django_lexus$manage.coverage" NAME="manage Coverage Results" MODIFIED="1555443616220" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lexussite" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/lexussite/lexussite/wsgi.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#225#234#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lexussite/index/tests.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Lexus/pages/index.html" />
+    <entry file="file://$PROJECT_DIR$/../Lexus_v.5/script/SubMenuLogin.js" />
+    <entry file="file://$PROJECT_DIR$/../Lexus_v.5/pages/index.html" />
+    <entry file="file://$PROJECT_DIR$/../Lexus_v.5/pages/manager.html" />
+    <entry file="file://$PROJECT_DIR$/lexussite/manager/includes/nav_authorized.html" />
+    <entry file="file://$PROJECT_DIR$/lexussite/index/includes/nav_unauthor.html" />
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/site-packages/django/db/models/base.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="520" column="8" selection-start-line="520" selection-start-column="8" selection-end-line="520" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lexussite/authorized/admin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lexussite/index/validators.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+          <folding>
+            <element signature="e#0#50#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lexussite/index/admin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="28" selection-start-line="8" selection-start-column="28" selection-end-line="8" selection-end-column="28" />
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lexussite/index/templates/index/cars_template.html" />
+    <entry file="file://$PROJECT_DIR$/lexussite/index/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lexussite/lexussite/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="19" column="20" lean-forward="true" selection-start-line="19" selection-start-column="20" selection-end-line="19" selection-end-column="20" />
+          <folding>
+            <element signature="e#633#665#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lexussite/authorized/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="44" selection-start-line="4" selection-start-column="44" selection-end-line="4" selection-end-column="44" />
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lexussite/authorized/migrations/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lexussite/lexussite/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="51" column="36" lean-forward="true" selection-start-line="51" selection-start-column="36" selection-end-line="51" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lexussite/manage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="10" lean-forward="true" selection-start-line="20" selection-start-column="10" selection-end-line="20" selection-end-column="10" />
+          <folding>
+            <element signature="e#84#93#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lexussite/manager/admin.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lexussite/manager/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="44" selection-start-line="4" selection-start-column="44" selection-end-line="4" selection-end-column="44" />
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lexussite/authorized/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lexussite/index/forms.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="61" selection-start-line="11" selection-start-column="49" selection-end-line="11" selection-end-column="61" />
+          <folding>
+            <element signature="e#0#24#0" expanded="true" />
+            <element signature="e#1834#2719#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lexussite/authorized/forms.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+          <folding>
+            <element signature="e#0#24#0" expanded="true" />
+            <element signature="e#212#932#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lexussite/index/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="212">
+          <caret line="30" column="72" selection-start-line="30" selection-start-column="72" selection-end-line="30" selection-end-column="72" />
+          <folding>
+            <element signature="e#0#35#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lexussite/index/templates/index/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="30" selection-start-line="30" selection-end-line="30" />
+          <folding>
+            <element signature="n#nav#0;n#!!top" />
+            <element signature="n#button#0;n#nav#0;n#!!top" />
+            <element signature="n#div#0;n#!!top" />
+            <element signature="n#div#1;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lexussite/index/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="104" column="42" selection-start-line="104" selection-start-column="42" selection-end-line="104" selection-end-column="42" />
+          <folding>
+            <element signature="e#0#28#0" expanded="true" />
+            <element signature="e#85#599#0" />
+            <element signature="e#635#1098#0" />
+            <element signature="e#1135#1772#0" />
+            <element signature="e#1807#2849#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lexussite/manager/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="28" selection-start-line="28" selection-end-line="28" selection-end-column="38" />
+          <folding>
+            <element signature="e#0#35#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lexussite/index/static/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-871">
+          <caret line="14" column="38" selection-start-line="14" selection-start-column="38" selection-end-line="14" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lexussite/index/static/index/style/index.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="3" lean-forward="true" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lexussite/authorized/static/authorized/style/authorized.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="217">
+          <caret line="20" column="2" lean-forward="true" selection-start-line="20" selection-start-column="2" selection-end-line="20" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lexussite/index/templates/index/wrapper.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="17" column="79" lean-forward="true" selection-start-line="17" selection-start-column="79" selection-end-line="17" selection-end-column="79" />
+          <folding>
+            <element signature="n#style#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lexussite/authorized/templates/authorized/authorized.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="108" lean-forward="true" selection-start-line="108" selection-end-line="108" />
+          <folding>
+            <element signature="n#nav#0;n#!!top" />
+            <element signature="n#button#0;n#nav#0;n#!!top" />
+            <element signature="n#div#0;n#nav#0;n#!!top" />
+            <element signature="n#div#0;n#!!top" />
+            <element signature="n#div#0;n#div#0;n#div#0;n#div#0;n#!!top" />
+            <element signature="e#2044#2051#1" expanded="true" />
+            <element signature="n#thead#0;n#table#0;n#div#1;n#div#0;n#div#0;n#div#0;n#!!top" />
+            <element signature="n#div#0;n#!!top" />
+            <element signature="n#div#0;n#div#0;n#div#0;n#div#0;n#!!top" />
+            <element signature="n#div#1;n#!!top" />
+            <element signature="n#div#2;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lexussite/manager/templates/manager/manager.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="174" column="32" lean-forward="true" selection-start-line="158" selection-start-column="20" selection-end-line="174" selection-end-column="32" />
+          <folding>
+            <element signature="n#nav#0;n#!!top" />
+            <element signature="n#div#0;n#div#0;n#div#0;n#!!top" />
+            <element signature="n#thead#0;n#table#0;n#div#0;n#div#0;n#div#0;n#!!top" />
+            <element signature="n#div#1;n#div#0;n#div#0;n#!!top" />
+            <element signature="n#div#2;n#div#0;n#div#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lexussite/authorized/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="217">
+          <caret line="55" column="19" selection-start-line="55" selection-start-column="9" selection-end-line="55" selection-end-column="19" />
+          <folding>
+            <element signature="e#0#35#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
